@@ -1,0 +1,14 @@
+{
+    "name": "python-telegram-bot ",
+    "description": "Telegram bot",
+    "logo": "https://telegra.ph/file/e15e9ac9c5885b015e3ab.jpg",
+    "keywords": [
+      "telegram",
+      "bot",
+      "python"
+    ],
+    "repository": "https://github.com/repacksters/repackster-downloader-bot",
+    "website": "https://github.com/repacksters/repackster-downloader-bot",
+    "success_url": "https://github.com/repacksters/repackster-downloader-bot/blob/master/README.md" ,
+    "stack": "container"
+}

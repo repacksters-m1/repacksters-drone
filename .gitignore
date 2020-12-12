@@ -1,0 +1,10 @@
+*auth_token.txt
+*.pyc
+downloads/*
+download/*
+data*
+.vscode
+.idea
+authorized_chats.txt
+log.txt
+accounts/*
